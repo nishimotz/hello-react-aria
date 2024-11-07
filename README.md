@@ -34,3 +34,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## 作業メモ
+
+```
+npx create-next-app hello-react-aria
+cd hello-react-aria
+yarn add react-aria-components
+yarn add @react-aria/example-theme
+```
+
+app/page.tsx を更新
+
+```
+yarn dev
+```
